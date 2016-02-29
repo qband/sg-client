@@ -1,0 +1,244 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "bitbucket.org/pkg/inflect",
+			"repository": "https://bitbucket.org/pkg/inflect",
+			"revision": "8961c3750a47",
+			"branch": "default"
+		},
+		{
+			"importpath": "github.com/AaronO/go-git-http",
+			"repository": "https://github.com/AaronO/go-git-http",
+			"revision": "341680f0d3bcbd02319af3b11e9224f656d7ac93",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/BurntSushi/toml",
+			"repository": "https://github.com/BurntSushi/toml",
+			"revision": "a4eecd407cf4129fc902ece859a0114e4cf1a7f4",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/PuerkitoBio/goquery",
+			"repository": "https://github.com/PuerkitoBio/goquery",
+			"revision": "4126223a86db8598275b29db04d511cfdab67cf1",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/PuerkitoBio/purell",
+			"repository": "https://github.com/PuerkitoBio/purell",
+			"revision": "d69616f51cdfcd7514d6a380847a152dfc2a749d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/Sirupsen/logrus",
+			"repository": "https://github.com/Sirupsen/logrus",
+			"revision": "219c8cb75c258c552e999735be6df753ffc7afdc",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/alecthomas/binary",
+			"repository": "https://github.com/alecthomas/binary",
+			"revision": "8b2a3aa0ba1c1e495274f8e63f57dc7f76107753",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/alecthomas/unsafeslice",
+			"repository": "https://github.com/alecthomas/unsafeslice",
+			"revision": "763102eafe597ba6cc5c6e847006e3e9851c2786",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/alexsaveliev/go-colorable-wrapper",
+			"repository": "https://github.com/alexsaveliev/go-colorable-wrapper",
+			"revision": "99a0af7e4f8cb31ba0cbecd070648a1f3f7c4c33",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/andybalholm/cascadia",
+			"repository": "https://github.com/andybalholm/cascadia",
+			"revision": "3ad29d1ad1c4f2023e355603324348cf1f4b2d48",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/araddon/gou",
+			"repository": "https://github.com/araddon/gou",
+			"revision": "485e0617d76c2b7a002af3e5c86f6eceb330688d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/beorn7/perks/quantile",
+			"repository": "https://github.com/beorn7/perks",
+			"revision": "b965b613227fddccbfffe13eae360ed3fa822f8d",
+			"branch": "master",
+			"path": "/quantile"
+		},
+		{
+			"importpath": "github.com/bgentry/go-netrc/netrc",
+			"repository": "https://github.com/bgentry/go-netrc",
+			"revision": "9fd32a8b3d3d3f9d43c341bfe098430e07609480",
+			"branch": "master",
+			"path": "/netrc"
+		},
+		{
+			"importpath": "github.com/bitly/go-hostpool",
+			"repository": "https://github.com/bitly/go-hostpool",
+			"revision": "d0e59c22a56e8dadfed24f74f452cea5a52722d2",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/blevesearch/bleve",
+			"repository": "https://github.com/blevesearch/bleve",
+			"revision": "2527651c6dbad38188f7507b73e451161685dfc8",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/blevesearch/go-porterstemmer",
+			"repository": "https://github.com/blevesearch/go-porterstemmer",
+			"revision": "23a2c8e5cf1f380f27722c6d2ae8896431dc7d0e",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/blevesearch/segment",
+			"repository": "https://github.com/blevesearch/segment",
+			"revision": "db70c57796cc8c310613541dfade3dce627d09c7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/boltdb/bolt",
+			"repository": "https://github.com/boltdb/bolt",
+			"revision": "9af8da5df3ab9ed7e8984cdfa97657ad9e60fc5f",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/bradfitz/gomemcache/memcache",
+			"repository": "https://github.com/bradfitz/gomemcache",
+			"revision": "fb1f79c6b65acda83063cbc69f6bba1522558bfc",
+			"branch": "master",
+			"path": "/memcache"
+		},
+		{
+			"importpath": "github.com/bradfitz/iter",
+			"repository": "https://github.com/bradfitz/iter",
+			"revision": "454541ec3da2a73fc34fd049b19ee5777bf19345",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/codegangsta/cli",
+			"repository": "https://github.com/codegangsta/cli",
+			"revision": "a2943485b110df8842045ae0600047f88a3a56a1",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/couchbase/moss",
+			"repository": "https://github.com/couchbase/moss",
+			"revision": "9285784082634116c51394ae0bb9e686bef87159",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/cpuguy83/go-md2man/md2man",
+			"repository": "https://github.com/cpuguy83/go-md2man",
+			"revision": "2724a9c9051aa62e9cca11304e7dd518e9e41599",
+			"branch": "master",
+			"path": "/md2man"
+		},
+		{
+			"importpath": "github.com/cznic/mathutil",
+			"repository": "https://github.com/cznic/mathutil",
+			"revision": "38a5fe05cd94d69433fd1c928417834c604f281d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/dchest/cssmin",
+			"repository": "https://github.com/dchest/cssmin",
+			"revision": "fb8d9b44afdc258bfff6052d3667521babcb2239",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/dgrijalva/jwt-go",
+			"repository": "https://github.com/dgrijalva/jwt-go",
+			"revision": "f2193411bd642f7db03249fd79d5292c9b34916a",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/docker/go-units",
+			"repository": "https://github.com/docker/go-units",
+			"revision": "5d2041e26a699eaca682e2ea41c8f891e1060444",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/drone/drone-exec/docker",
+			"repository": "https://github.com/drone/drone-exec",
+			"revision": "3c24d7e5d3c1fd7670355f5b12e55d386c180625",
+			"branch": "master",
+			"path": "/docker"
+		},
+		{
+			"importpath": "github.com/drone/drone-exec/exec",
+			"repository": "https://github.com/drone/drone-exec",
+			"revision": "3c24d7e5d3c1fd7670355f5b12e55d386c180625",
+			"branch": "master",
+			"path": "/exec"
+		},
+		{
+			"importpath": "github.com/drone/drone-exec/parser",
+			"repository": "https://github.com/drone/drone-exec",
+			"revision": "3c24d7e5d3c1fd7670355f5b12e55d386c180625",
+			"branch": "master",
+			"path": "/parser"
+		},
+		{
+			"importpath": "github.com/drone/drone-exec/runner",
+			"repository": "https://github.com/drone/drone-exec",
+			"revision": "3c24d7e5d3c1fd7670355f5b12e55d386c180625",
+			"branch": "master",
+			"path": "/runner"
+		},
+		{
+			"importpath": "github.com/drone/drone-exec/yaml",
+			"repository": "https://github.com/drone/drone-exec",
+			"revision": "3c24d7e5d3c1fd7670355f5b12e55d386c180625",
+			"branch": "master",
+			"path": "/yaml"
+		},
+		{
+			"importpath": "github.com/drone/drone-plugin-go/plugin",
+			"repository": "https://github.com/drone/drone-plugin-go",
+			"revision": "d6109f644c5935c22620081b4c234bb2263743c7",
+			"branch": "master",
+			"path": "/plugin"
+		},
+		{
+			"importpath": "github.com/drone/drone/yaml/matrix",
+			"repository": "https://github.com/drone/drone",
+			"revision": "670217ac1b7ab19525cf4b584a982cada4b1ea6f",
+			"branch": "master",
+			"path": "/yaml/matrix"
+		},
+		{
+			"importpath": "github.com/dustin/go-humanize",
+			"repository": "https://github.com/dustin/go-humanize",
+			"revision": "8929fe90cee4b2cb9deb468b51fb34eba64d1bf0",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/eknkc/amber",
+			"repository": "https://github.com/eknkc/amber",
+			"revision": "144da19a9994994c069f0693294a66dd310e14a4",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/flynn/go-shlex",
+			"repository": "https://github.com/flynn/go-shlex",
+			"revision": "3f9db97f856818214da2e1057f8ad84803971cff",
+			"branch": "master"
+		},
+		{
+			"importpath": "src.sourcegraph.com/sourcegraph",
+			"repository": "https://src.sourcegraph.com/sourcegraph",
+			"revision": "2282e5f02bc781e5fde44d0227d6373ef38cd982",
+			"branch": "master"
+		}
+	]
+}
