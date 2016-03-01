@@ -1,3 +1,4 @@
+set -eu
 go get -u github.com/constabulary/gb/...
 
 #gb vendor fetch src.sourcegraph.com/sourcegraph
