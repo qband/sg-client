@@ -23,9 +23,9 @@ func main() {
   if repoURI == "" {
     fmt.Println("repoURI is empty")
   }
-  cloneURI := os.Args[2]
-  if cloneURI == "" {
-    fmt.Println("cloneURI is empty")
+  cloneURL := os.Args[2]
+  if cloneURL == "" {
+    fmt.Println("cloneURL is empty")
   }
 
   // set endpoint url
@@ -80,7 +80,7 @@ func main() {
   // mirror the remote git repository
   repo, err := cl.Repos.Create(ctx, &sourcegraph.ReposCreateOp{
     URI: repoURI,
-    CloneURL: cloneURI,
+    CloneURL: cloneURL,
     VCS: "git",
     Mirror: true,
   })
